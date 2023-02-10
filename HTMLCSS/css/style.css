@@ -1,0 +1,83 @@
+.overall{
+    background-color: rgb(87, 217, 237);
+}
+
+.fullwidth{
+    width: 100%;
+    color: rgb(87, 217, 237);
+    
+}
+.logo{
+    width: 20%;
+    float: left;
+}
+.menu{
+    width: 50%;
+    float: left;
+}
+.menustyle{
+    list-style: none;
+    float: left;
+    width: 177px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 37px;
+    font-style: italic;
+}
+.menulink{
+    text-decoration: none;
+}
+
+.socials{
+    width: 20%;
+    float: right;
+    align-items: center;
+}
+.sep{
+    padding: 8px;
+}
+
+/* ------------------------------------------------------------------- */
+.youtube{
+    width: 50%;
+    float: left;
+}
+.text{
+    width: 20%;
+    float: left;
+    color:rgb(25, 61, 116);
+}
+.bt{
+    border-style: solid;
+    border-color: rgb(241, 241, 247);
+    border-width: 3px;
+    background-color: rgb(87, 217, 237);
+}
+.text2{
+    width: 30%;
+    float: left;
+    color: rgb(25, 61, 116);
+}
+.map{
+    width: 60%;
+    float: left;
+}
+.text3{
+    width: 40%;
+    float: left;
+    color: azure;
+    background-color:rgb(25, 61, 116);
+
+}
+.footer{
+    text-align: center;
+    align-content: center;
+}
+.footerlogo{
+    border-style: solid;
+    border-color: rgb(241, 241, 247);
+    border-width: 1px;
+    background-color:rgb(87, 217, 237);
+}
+.space{
+    padding: 15px;
+}
